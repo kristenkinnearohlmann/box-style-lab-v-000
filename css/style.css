@@ -5,7 +5,6 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  box-sizing: border-box;
 }
 
 .container, h1 {
@@ -58,4 +57,5 @@ h4 {
 
 img {
   border: 2px solid grey;
+  box-sizing: border-box;
 }
